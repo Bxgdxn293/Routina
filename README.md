@@ -2,7 +2,7 @@
 
 Web-App zum täglichen Abhaken von Gewohnheiten. Läuft im Browser auf Handy und PC und lässt sich auf den Homescreen legen.
 
-**Live:** https://nailitnow.netlify.app/
+**Live:** https://routina5.netlify.app/
 
 ## Funktionen
 
